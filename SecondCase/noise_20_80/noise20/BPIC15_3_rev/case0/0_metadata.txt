@@ -1,0 +1,1 @@
+('BPIC15_3_rev/case0/process_tree_case_size_betwee_7_and_8_noise_20.svg', "->( 'Record submission date request', 'OLO messaging ongoing', +( *( 'Issue confirmation receipt', tau ), ->( +( 'Applicant is involved', 'Period application received' ), 'Log senddate acknowledgement' ) ) )")

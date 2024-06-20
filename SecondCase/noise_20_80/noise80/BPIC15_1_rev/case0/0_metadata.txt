@@ -1,0 +1,1 @@
+('BPIC15_1_rev/case0/process_tree_case_size_betwee_7_and_8_noise_80.svg', "->( 'register submission date request', 'enter senddate acknowledgement', 'phase application received', 'reception through OLO', *( 'send confirmation receipt', tau ), 'forward to the competent authority', X( tau, ->( 'applicant is stakeholder', 'temporary permit' ) ), 'regular procedure without MER' )")
