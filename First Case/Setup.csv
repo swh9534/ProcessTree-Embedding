@@ -1,0 +1,8 @@
+﻿,,Naïve,Simple,Concise,Straightforward,Complex,Spaghetti
+Activity,min,5,5,5,15,15,15
+,mode,7,7,7,20,20,20
+,max,9,9,9,25,25,25
+Operator,sequence,1,0.7,0.25,1,0.7,0.25
+,choice,0,0.3,0.25,0,0.3,0.25
+,parallel,0,0,0.25,0,0,0.25
+,loop,0,0,0.25,0,0,0.25
